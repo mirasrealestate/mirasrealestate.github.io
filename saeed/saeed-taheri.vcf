@@ -9,6 +9,9 @@ EMAIL;TYPE=INTERNET,WORK:s.taheri@miras-group.com
 URL;TYPE=WORK:https://www.miras-group.com
 item1.URL:https://mirasrealestate.github.io/saeed/
 item1.X-ABLabel:Digital card
+item2.URL:https://www.instagram.com/miras.group.co/
+item2.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/miras.group.co/
 ADR;TYPE=WORK:;Office 1901\, 19th Floor;Burj Alfardan;Doha;;;Qatar
 NOTE:سعيد طاهري — الرئيس التنفيذي
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAQDAwQDAwQEBAQF

@@ -9,6 +9,9 @@ EMAIL;TYPE=INTERNET,WORK:r.zienddine@mirasrealestate.com
 URL;TYPE=WORK:https://www.mirasrealestate.com
 item1.URL:https://mirasrealestate.github.io/rami/
 item1.X-ABLabel:Digital card
+item2.URL:https://www.instagram.com/miras.real.estate/
+item2.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/miras.real.estate/
 ADR;TYPE=WORK:;Office 1901\, 19th Floor;Burj Alfardan;Doha;;;Qatar
 NOTE:رامي زين الدين — رئيس المبيعات وتطوير الأعمال
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAQDAwQDAwQEBAQF
