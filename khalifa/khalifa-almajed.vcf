@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:AlMajed;Khalifa;J H;;
-FN:Khalifa J H AlMajed
+N:AlMajed;Khalifa;;;
+FN:Khalifa AlMajed
 ORG:MIRAS Group
 TITLE:Managing Director
 TEL;TYPE=CELL,VOICE,pref:+97455093400
@@ -13,7 +13,7 @@ item2.URL:https://www.instagram.com/miras.group.co/
 item2.X-ABLabel:Instagram
 X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/miras.group.co/
 ADR;TYPE=WORK:;Office 1901\, 19th Floor;Burj Alfardan;Doha;;;Qatar
-NOTE:خليفة الماجد — المدير الإداري
+NOTE:خليفة الماجد — المدير التنفيذي
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAQDAwQDAwQEBAQF
  BQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz/2w
  BDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwc
